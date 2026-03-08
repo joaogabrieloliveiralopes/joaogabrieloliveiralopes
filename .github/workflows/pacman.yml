@@ -22,7 +22,7 @@ jobs:
       - name: push pacman
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output
+          target_branch: main
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
