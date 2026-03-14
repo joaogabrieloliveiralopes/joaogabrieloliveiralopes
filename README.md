@@ -8,11 +8,7 @@ Developer focused on programming, software structure and game development.
 ## 🛠 Technologies
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
-  <img width="11"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
-  <img width="11"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
   <img width="11"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35"/>
   <img width="11"/>
@@ -46,7 +42,10 @@ https://github.com/joaogabrieloliveiralopes/Hello-Stranger
 <div align="left">
   <a href="mailto:joaogabrieloliveira.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
+###
 
 ⭐ Building projects, learning systems and exploring new ideas.
 
